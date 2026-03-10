@@ -1,5 +1,5 @@
 # 恢复数据
-mongorestore --db tao ./tao.json/tao
+mongorestore --db tao ./dump/tao
 # 恢复后配置DB账号
 # mongosh
 # use admin
