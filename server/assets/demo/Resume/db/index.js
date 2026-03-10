@@ -1,7 +1,7 @@
 module.exports = () => {
   const mongoose = require("mongoose");
   mongoose.connect(
-    "mongodb://catii:gqgq123123@127.0.0.1:27017/tao?authSource=admin",
+    "mongodb://catii:gqgq******@127.0.0.1:27017/tao?authSource=admin",
     // "mongodb://127.0.0.1:27017/grjl?authSource=admin",
     { useNewUrlParser: true, useUnifiedTopology: true }
   );

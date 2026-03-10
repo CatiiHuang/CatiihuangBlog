@@ -1,1 +1,1 @@
-mongodump -h 127.0.0.1:27017 -u catii -p gqgq123123 --authenticationDatabase admin -d tao
+mongodump -h 127.0.0.1:27017 -u catii -p gqgq****** --authenticationDatabase admin -d tao

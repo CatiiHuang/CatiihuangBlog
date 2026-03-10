@@ -5,7 +5,7 @@ mongorestore --db tao ./dump/tao
 # use admin
 # db.createUser({
 #   user: "catii",
-#   pwd: "gqgq123123",
+#   pwd: "gqgq******",
 #   roles: [
 #     { role: "readWrite", db: "tao" },
 #     { role: "readWrite", db: "admin" } // 可选：如果需要管理权限
